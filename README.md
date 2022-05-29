@@ -1,5 +1,5 @@
 # Pong-JS
-Classic game Pong in Javascript
+Jogo clássico do Atari em JS
 
 Feito no canvas utilizando a biblioteca em edição online <a href='https://editor.p5js.org/'>P5
 
@@ -9,10 +9,10 @@ Feito no canvas utilizando a biblioteca em edição online <a href='https://edit
 <li>Caso a bolinha bata na borda do adversário, ponto para o jogador
   </ul>
   
-### Commands
+### Comandos
   <ul>
-<li>Arrow Up > Player bar up
-<li>Arrow Down > Player bar down
+<li>Arrow Up > Barra do jogador para cima
+<li>Arrow Down > Barra do jogador para baixo
 </ul>
  <br>
 
