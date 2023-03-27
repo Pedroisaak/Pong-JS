@@ -5,7 +5,7 @@ Feito no canvas utilizando a biblioteca em edição online <a href='https://edit
 
 ### Regras
   <ul>
-<li>Caso a bolinha bata na borda do jogador, ponto para o adversário
+<li>Caso a bolinha bata na borda do jogador, ponto para o adversário.
 <li>Caso a bolinha bata na borda do adversário, ponto para o jogador
   </ul>
   
