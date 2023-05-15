@@ -1,5 +1,5 @@
 # PongJS
-Jogo clássico do Atari em JS.
+Jogo clássico do Atari em JS
 
 Feito no canvas utilizando a biblioteca em edição online <a href='https://editor.p5js.org/'>P5
 
